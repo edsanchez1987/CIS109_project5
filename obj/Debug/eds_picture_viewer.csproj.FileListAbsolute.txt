@@ -1,0 +1,10 @@
+C:\Users\Eduardo\source\repos\eds_picture_viewer\bin\Debug\eds_picture_viewer.exe.config
+C:\Users\Eduardo\source\repos\eds_picture_viewer\bin\Debug\eds_picture_viewer.exe
+C:\Users\Eduardo\source\repos\eds_picture_viewer\bin\Debug\eds_picture_viewer.pdb
+C:\Users\Eduardo\source\repos\eds_picture_viewer\obj\Debug\eds_picture_viewer.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\eds_picture_viewer\obj\Debug\eds_picture_viewer.Form1.resources
+C:\Users\Eduardo\source\repos\eds_picture_viewer\obj\Debug\eds_picture_viewer.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\eds_picture_viewer\obj\Debug\eds_picture_viewer.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\eds_picture_viewer\obj\Debug\eds_picture_viewer.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\eds_picture_viewer\obj\Debug\eds_picture_viewer.exe
+C:\Users\Eduardo\source\repos\eds_picture_viewer\obj\Debug\eds_picture_viewer.pdb
